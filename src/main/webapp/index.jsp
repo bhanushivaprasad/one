@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>Devops Engineers<h1> <!-- Bug: Missing closing slash on <h1> -->
+            <h1>Jenkins with Nexus<h1> <!-- Bug: Missing closing slash on <h1> -->
         </div>
         <nav>
             <ul>
