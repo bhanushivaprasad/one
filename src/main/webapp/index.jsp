@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>JenkinsNexus<h1> <!-- Bug: Missing closing slash on <h1> -->
+            <h1>Integrate<h1> <!-- Bug: Missing closing slash on <h1> -->
         </div>
         <nav>
             <ul>
