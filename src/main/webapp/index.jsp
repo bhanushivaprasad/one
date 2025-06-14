@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>World Of Devops Engineers<h1> <!-- Bug: Missing closing slash on <h1> -->
+            <h1>Devops<h1> <!-- Bug: Missing closing slash on <h1> -->
         </div>
         <nav>
             <ul>
